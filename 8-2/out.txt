@@ -1,0 +1,331 @@
+dwActiveProcessorMask	65535
+dwAllocationGranularity	65536
+dwNumberOfProcessors	16
+dwOemId	9
+dwPageSize	4096
+dwProcessorType	8664
+lpMaximumApplicationAddress	    7ffffffeffff
+lpminimemApplicationAddress	           10000
+wProcessorArchitecture	9
+wProcessorLevel	6
+wProcessorRevision	8d01
+wReserved	0
+******************************************************
+AllocationBase	0000000000000000
+AllocationProtect	0
+BaseAddress	0000000000010000
+Protect	1
+RegionSize	7ffd0000
+State	10000
+Type	0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0
+dwAvailPageFile	22bd18000
+dwAvailPhys	200903000
+dwAvailVirtual	7ffefd00a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+1
+dwAvailPageFile	22a2e6000
+dwAvailPhys	1feca5000
+dwAvailVirtual	7ffe9b58a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+2
+dwAvailPageFile	22a212000
+dwAvailPhys	1fe77f000
+dwAvailVirtual	7ffe39b0a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+3
+dwAvailPageFile	22a1a0000
+dwAvailPhys	1fe790000
+dwAvailVirtual	7ffe2146a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+4
+dwAvailPageFile	22a1a7000
+dwAvailPhys	1fe799000
+dwAvailVirtual	7ffdd808a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+5
+dwAvailPageFile	22a1b9000
+dwAvailPhys	1fe8e6000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+6
+dwAvailPageFile	1c8339000
+dwAvailPhys	1fe697000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+7
+dwAvailPageFile	166698000
+dwAvailPhys	1fe033000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+8
+dwAvailPageFile	14ddde000
+dwAvailPhys	1fda08000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+9
+dwAvailPageFile	1049fe000
+dwAvailPhys	1fdd1d000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+a
+dwAvailPageFile	8a727000
+dwAvailPhys	1fe1ec000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+b
+dwAvailPageFile	8a9e4000
+dwAvailPhys	1fdc3a000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+c
+dwAvailPageFile	8a7fb000
+dwAvailPhys	1fe008000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+d
+dwAvailPageFile	8a922000
+dwAvailPhys	1fdd4f000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+e
+dwAvailPageFile	8ae4d000
+dwAvailPhys	1fe179000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+f
+dwAvailPageFile	8ae4d000
+dwAvailPhys	1fe179000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+10
+dwAvailPageFile	8ae4a000
+dwAvailPhys	1fe1ef000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+11
+dwAvailPageFile	8ad41000
+dwAvailPhys	1fe497000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+12
+dwAvailPageFile	8af6e000
+dwAvailPhys	1fe3eb000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+13
+dwAvailPageFile	8af15000
+dwAvailPhys	1fe41c000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+14
+dwAvailPageFile	8af1a000
+dwAvailPhys	1fe420000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+15
+dwAvailPageFile	ed122000
+dwAvailPhys	1fe91f000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+16
+dwAvailPageFile	14ec68000
+dwAvailPhys	1fec49000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+17
+dwAvailPageFile	167384000
+dwAvailPhys	1fea39000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+18
+dwAvailPageFile	1b0b27000
+dwAvailPhys	1fef5b000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+19
+dwAvailPageFile	22affb000
+dwAvailPhys	1ff337000
+dwAvailVirtual	7ffd5df6a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+1a
+dwAvailPageFile	22b09a000
+dwAvailPhys	1ff2f2000
+dwAvailVirtual	7ffdbf9ea000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+1b
+dwAvailPageFile	22aef0000
+dwAvailPhys	1ff24c000
+dwAvailVirtual	7ffe2146a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+1c
+dwAvailPageFile	22b27d000
+dwAvailPhys	1ff7a0000
+dwAvailVirtual	7ffe39b0a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+1d
+dwAvailPageFile	22aee1000
+dwAvailPhys	1ff8db000
+dwAvailVirtual	7ffe82eea000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+1e
+dwAvailPageFile	22af61000
+dwAvailPhys	1ff6d9000
+dwAvailVirtual	7ffefd10a000
+dwLength	38
+dwMemoryLoad	31
+dwTotalPageFile	46534e000
+dwTotalPhy	3f134e000
+dwTotalVirtual	7ffffffe0000
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
